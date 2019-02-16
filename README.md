@@ -57,4 +57,4 @@ clean start state.
 Maintainers
 -----------
 
-[Geoff St. Pierre @serundeputy](https://github.com/serundepty)
+[Geoff St. Pierre @serundeputy](https://github.com/serundeputy)
