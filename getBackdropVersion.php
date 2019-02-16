@@ -1,3 +1,3 @@
 <?php
-
-print BACKDROP_VERSION;
+chdir('/app/backdrop');
+return BACKDROP_VERSION;

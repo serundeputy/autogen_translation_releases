@@ -1,4 +1,4 @@
 name: genpofilesondaregs
 recipe: backdrop
 config:
-  webroot: .
+  webroot: localization/www
